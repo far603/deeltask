@@ -1,0 +1,25 @@
+{
+  "name": "deel-task",
+  "version": "1.0.0",
+  "description": "deal test task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/far603/deeltask.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "farhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/far603/deeltask/issues"
+  },
+  "homepage": "https://github.com/far603/deeltask#readme",
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  }
+}
